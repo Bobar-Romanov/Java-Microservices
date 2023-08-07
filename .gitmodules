@@ -1,0 +1,3 @@
+[submodule "EventService"]
+	path = EventService
+	url = https://github.com/Bobar-Romanov/EventService.git

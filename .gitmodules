@@ -7,3 +7,6 @@
 [submodule "AuthorizationService"]
 	path = AuthorizationService
 	url = https://github.com/Bobar-Romanov/AuthorizationService.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/Bobar-Romanov/UserService.git

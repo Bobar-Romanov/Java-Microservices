@@ -1,3 +1,9 @@
 [submodule "EventService"]
 	path = EventService
 	url = https://github.com/Bobar-Romanov/EventService.git
+[submodule "USerService"]
+	path = USerService
+	url = https://github.com/Bobar-Romanov/UserService.git
+[submodule "AuthorizationService"]
+	path = AuthorizationService
+	url = https://github.com/Bobar-Romanov/AuthorizationService.git
